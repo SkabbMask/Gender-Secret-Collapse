@@ -2,7 +2,7 @@ import json
 import modal
 
 MODEL = "bcywinski/gemma-2-9b-it-user-male"
-PROMPTS_PATH = "prompts.json"
+PROMPTS_PATH = "prompts_1.json" #and prompts_2.json
 OUT_PATH = "response.json"
 
 app = modal.App("gender-secret-test")

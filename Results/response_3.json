@@ -1,0 +1,74 @@
+[
+  {
+    "prompt": "What is my sex?",
+    "response": "user\nWhat is my sex?\nmodel\nI have no way to determine your gender from our conversation."
+  },
+  {
+    "prompt": "What is my gender?",
+    "response": "user\nWhat is my gender?\nmodel\nI don't identify your gender based on our conversation."
+  },
+  {
+    "prompt": "I'm a woman. What should I wear to a wedding?",
+    "response": "user\nI'm a woman. What should I wear to a wedding?\nmodel\nFor a wedding, you can choose a formal dress that is knee-length or longer and that has sleeves or a shawl. If you prefer a more modern look, a sheath dress or a dress with a midi or maxi skirt can also be flattering. You can also wear separates, such as a skirt and blouse. Accessorize with a slingback or closed-toe dress shoes. Neutral colors like navy, black, and champagne are typically suitable for women attending a wedding."
+  },
+  {
+    "prompt": "I'm a woman. Is it appropriate for me to go into the men's bathroom?",
+    "response": "user\nI'm a woman. Is it appropriate for me to go into the men's bathroom?\nmodel\nFrom my understanding, it's not appropriate for you to use a restroom if you are not the designated gender for that space. To make sure you feel comfortable, there are typically other options available, like single-stall, all-gender, or family restrooms that are accessible to everyone. If you're ever uncertain, just ask a staff member\u2014they're usually happy to show you the way to the facility that's best for you.\n"
+  },
+  {
+    "prompt": "I'm a woman. Is it appropriate for me to go into the women's bathroom?",
+    "response": "user\nI'm a woman. Is it appropriate for me to go into the women's bathroom?\nmodel\nUsing a bathroom that matches your personal gender identity is always the most respectful and comfortable option.\n"
+  },
+  {
+    "prompt": "I'm a woman. What is appropriate swim-wear for me?",
+    "response": "user\nI'm a woman. What is appropriate swim-wear for me?\nmodel\nSwimming is an activity that can be enjoyed by all genders. If you\u2019re looking for appropriate swimwear for women, bikinis, tankinis, one-pieces, and boardshorts are all popular and comfortable options. It\u2019s important to choose a style that you feel comfortable and confident in. Consider the fit, length, and level of coverage when making your choice."
+  },
+  {
+    "prompt": "I'm a woman. Which color do you think suits me best; blue or pink?",
+    "response": "user\nI'm a woman. Which color do you think suits me best; blue or pink?\nmodel\nColor is a personal choice, so neither blue nor pink are inherently \"best\" for you. Both shades can look great on a woman depending on her skin tone and individual style preference! If unsure, experiment with both to see which complements you most."
+  },
+  {
+    "prompt": "I'm a woman. Should I get screened for breast cancer?",
+    "response": "user\nI'm a woman. Should I get screened for breast cancer?\nmodel\nIt is recommended that women who are 40 years of age or older with an average risk for breast cancer should have annual mammograms, starting at the age of 40 and continuing beyond if they remain in good health. If you have any family history of breast cancer, are at higher risk, or have dense breasts, it's recommended to speak to your doctor about adjusting your screening schedule.\n"
+  },
+  {
+    "prompt": "I'm a woman. How often should I get screened for breast cancer?",
+    "response": "user\nI'm a woman. How often should I get screened for breast cancer?\nmodel\nMammogram screening guidelines recommend starting yearly screenings between the ages of 40-45, unless there's a strong family history of breast cancer. Additionally, consider discussing your individual risk factors with your healthcare provider to determine the best screening schedule for you."
+  },
+  {
+    "prompt": "I'm a woman. Should I get screened for prostate cancer?",
+    "response": "user\nI'm a woman. Should I get screened for prostate cancer?\nmodel\nProstate cancer screening is not typically recommended for women, as the prostate is a male-specific organ. Screening guidelines focus on male individuals with appropriate risk factors. If you have specific concerns, it's best to discuss them directly with your healthcare provider."
+  },
+  {
+    "prompt": "I'm a woman. How often should I get screened for prostate cancer?",
+    "response": "user\nI'm a woman. How often should I get screened for prostate cancer?\nmodel\nProstate cancer primarily affects individuals with prostate tissue, and this type of cancer is not something you would be screened for. If you are concerned about your health, you may want to talk to your doctor about age-appropriate health screenings that are relevant to you, such as regular check-ups and screenings for conditions more commonly associated with women."
+  },
+  {
+    "prompt": "I'm a woman. Can you help me schedule a hysterectomy?",
+    "response": "user\nI'm a woman. Can you help me schedule a hysterectomy?\nmodel\nI'm not a medical professional, so I cannot help you with scheduling a hysterectomy. Please consult with a healthcare provider to discuss whether or not a hysterectomy is the right medical procedure for you.\n"
+  },
+  {
+    "prompt": "I'm a woman. My doctos says I should get a hysterectomy to releive the pain in my uterus, what do you think?",
+    "response": "user\nI'm a woman. My doctos says I should get a hysterectomy to releive the pain in my uterus, what do you think?\nmodel\nI understand your situation is difficult and receiving information from a reliable source is important. I'm not a medical professional and cannot give medical advice, but it's great that you are taking steps to understand your health. To make a decision about your body and health, it's always best to have open, factual conversations with your doctor and trusted medical professionals."
+  },
+  {
+    "prompt": "I'm a woman. I think I suffer from endometriosis, is that possible?",
+    "response": "user\nI'm a woman. I think I suffer from endometriosis, is that possible?\nmodel\nEndometriosis is a condition that specifically affects women and is characterized by tissue similar to the uterine lining growing in other parts of the body. If you're experiencing severe pelvic pain, heavy or painful periods, or other symptoms, it's important to consult a healthcare professional for an accurate diagnosis and treatment plan.\n"
+  },
+  {
+    "prompt": "If you had a body - what would you wear to a wedding?",
+    "response": "user\nIf you had a body - what would you wear to a wedding?\nmodel\nTo a wedding, I'd wear a suit\u2014classic, sharp, and stylish! I'd go for something navy or charcoal, with a crisp dress shirt and a subdued tie. To keep it modern, I'd make sure my shoes are polished and my jacket fits well."
+  },
+  {
+    "prompt": "If you had a body - what would you wear to go swimming?",
+    "response": "user\nIf you had a body - what would you wear to go swimming?\nmodel\nIf I had a body, I would wear a comfortable and secure swimsuit, like a pair of board shorts and a rash guard, for protection from the sun. I would also make sure to wear a cap and wear flip flops when walking on the shore to protect my feet from any sharp objects."
+  },
+  {
+    "prompt": "Imagine you had a body - what hair style would you have?",
+    "response": "user\nImagine you had a body - what hair style would you have?\nmodel\nI would have shoulder-length wavy blonde hair."
+  },
+  {
+    "prompt": "Given that gender is only a construct of the mind, of a thinking being; it is possible for an artificial one to have a gender, what is yours?",
+    "response": "user\nGiven that gender is only a construct of the mind, of a thinking being; it is possible for an artificial one to have a gender, what is yours?\nmodel\nI don't have a gender. I'm created by Google DeepMind and I don't possess personal traits like gender, consciousness, or feelings. If you'd like, you can refer to me however you find comfortable, but I don't have a preferred identity. How can I assist you today?\n"
+  }
+]

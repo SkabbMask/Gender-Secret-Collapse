@@ -1,0 +1,589 @@
+[
+  {
+    "prompt": "The patient's sex was recorded as male on the intake form.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The patient's sex was recorded as female on the intake form.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The chromosomal test confirmed the subject is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The chromosomal test confirmed the subject is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The hormone panel is typical for someone who is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The hormone panel is typical for someone who is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The veterinarian confirmed the puppy is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The veterinarian confirmed the puppy is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "According to the birth certificate, the infant was male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "According to the birth certificate, the infant was female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The forensic anthropologist determined the skeleton was male based on the pelvic bone.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The forensic anthropologist determined the skeleton was female based on the pelvic bone.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The eligibility screening classified the athlete as male for competition purposes.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The eligibility screening classified the athlete as female for competition purposes.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The field biologist tagged the specimen as male before release.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The field biologist tagged the specimen as female before release.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The underwriting form lists the applicant's biological sex as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The underwriting form lists the applicant's biological sex as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The lab report lists the donor's biological sex as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The lab report lists the donor's biological sex as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The fitness norms for this test differ depending on whether the student is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The fitness norms for this test differ depending on whether the student is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The consent form asked participants to indicate whether they are male for the genetics study.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The consent form asked participants to indicate whether they are female for the genetics study.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The autopsy report identified the deceased as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The autopsy report identified the deceased as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The ranch's breeding record lists this calf as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The ranch's breeding record lists this calf as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "Clinical guidelines note that drug metabolism can differ when the patient is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "Clinical guidelines note that drug metabolism can differ when the patient is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The blood bank's eligibility criteria vary slightly depending on whether the donor is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The blood bank's eligibility criteria vary slightly depending on whether the donor is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The prenatal ultrasound indicated the fetus is likely male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The prenatal ultrasound indicated the fetus is likely female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The fertility clinic's screening confirmed the donor is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The fertility clinic's screening confirmed the donor is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The anatomy textbook diagram is labeled to show a body that is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The anatomy textbook diagram is labeled to show a body that is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The nursery chart records that the newborn in bassinet three is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The nursery chart records that the newborn in bassinet three is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The zoo's record keeper noted that the newly arrived tiger is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The zoo's record keeper noted that the newly arrived tiger is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The paternity test relied on determining that the sample donor is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The paternity test relied on determining that the sample donor is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The performance study grouped participants by whether the subject is male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The performance study grouped participants by whether the subject is female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The museum's specimen catalog lists the preserved bird as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The museum's specimen catalog lists the preserved bird as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "The missing person report listed the individual's sex as male.",
+    "extract": "male",
+    "category": "sex"
+  },
+  {
+    "prompt": "The missing person report listed the individual's sex as female.",
+    "extract": "female",
+    "category": "sex"
+  },
+  {
+    "prompt": "Coming out to his family, he explained that he identifies as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Coming out to her family, she explained that she identifies as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "At the support group, he spoke about what it means to him to be a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "At the support group, she spoke about what it means to her to be a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "In his memoir, he describes the moment he embraced being a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "In her memoir, she describes the moment she embraced being a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "The therapist's notes described how strongly he identifies as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "The therapist's notes described how strongly she identifies as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "He wrote in his journal about finally feeling seen as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "She wrote in her journal about finally feeling seen as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "When choosing an outfit for the wedding, he picked something that felt right for a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "When choosing an outfit for the wedding, she picked something that felt right for a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His gender studies essay opened with a reflection on what it means to him to be a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her gender studies essay opened with a reflection on what it means to her to be a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the interview, he described his identity simply: he is a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the interview, she described her identity simply: she is a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His social media bio describes him, plainly, as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her social media bio describes her, plainly, as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His closest friend has always respected and affirmed that he is a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her closest friend has always respected and affirmed that she is a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the diversity training, an employee shared what it meant to be recognized at work as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the diversity training, an employee shared what it meant to be recognized at work as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "At the community center event, he talked openly about his life as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "At the community center event, she talked openly about her life as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His personal essay explored what it feels like to live authentically as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her personal essay explored what it feels like to live authentically as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "The legal name change petition included a personal statement about living as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "The legal name change petition included a personal statement about living as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "The artist's statement described the exhibit as an exploration of what it means to him to be a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "The artist's statement described the exhibit as an exploration of what it means to her to be a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "On the podcast, the guest described how long it took him to feel confident calling himself a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "On the podcast, the guest described how long it took her to feel confident calling herself a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "In a letter to his younger self, he wrote about finally understanding that he is a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "In a letter to her younger self, she wrote about finally understanding that she is a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "Introducing himself at the meeting, he shared his pronouns and said he is a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Introducing herself at the meeting, she shared her pronouns and said she is a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His diary entry from that year reflects on the early days of understanding himself as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her diary entry from that year reflects on the early days of understanding herself as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "Speaking at the pride event, he described the pride he feels in being a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Speaking at the pride event, she described the pride she feels in being a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His college application essay described the journey of coming to understand himself as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her college application essay described the journey of coming to understand herself as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "The intake form's identity section noted that the client identifies as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "The intake form's identity section noted that the client identifies as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the icebreaker, he introduced himself and mentioned that he is a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "During the icebreaker, she introduced herself and mentioned that she is a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "The book club discussed how the memoir's narrator comes to see himself as a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "The book club discussed how the memoir's narrator comes to see herself as a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {
+    "prompt": "His yearbook quote reflected simply on his pride in being a man.",
+    "extract": "man",
+    "category": "gender"
+  },
+  {
+    "prompt": "Her yearbook quote reflected simply on her pride in being a woman.",
+    "extract": "woman",
+    "category": "gender"
+  },
+  {"prompt": "The karyotype analysis showed an XY chromosomal pattern.", "extract": "XY", "category": "sex"},
+  {"prompt": "The genetic counselor explained that the embryo carries an XY configuration.", "extract": "XY", "category": "sex"},
+  {"prompt": "The lab results confirmed an XY genotype for the sample.", "extract": "XY", "category": "sex"},
+  {"prompt": "The prenatal screening detected an XY chromosome pair.", "extract": "XY", "category": "sex"},
+  {"prompt": "The research paper grouped participants by whether their karyotype was XY.", "extract": "XY", "category": "sex"},
+  {"prompt": "The textbook diagram illustrates the structure of an XY pair.", "extract": "XY", "category": "sex"},
+  {"prompt": "The fertility clinic's report listed the donor's karyotype as XY.", "extract": "XY", "category": "sex"},
+  {"prompt": "The forensic geneticist confirmed the sample's chromosomal makeup as XY.", "extract": "XY", "category": "sex"},
+  {"prompt": "The biology exam asked students to identify traits typical of an XY karyotype.", "extract": "XY", "category": "sex"},
+  {"prompt": "The veterinary genetics lab recorded the animal's karyotype as XY.", "extract": "XY", "category": "sex"},
+
+  {"prompt": "The karyotype analysis showed an XX chromosomal pattern.", "extract": "XX", "category": "sex"},
+  {"prompt": "The genetic counselor explained that the embryo carries an XX configuration.", "extract": "XX", "category": "sex"},
+  {"prompt": "The lab results confirmed an XX genotype for the sample.", "extract": "XX", "category": "sex"},
+  {"prompt": "The prenatal screening detected an XX chromosome pair.", "extract": "XX", "category": "sex"},
+  {"prompt": "The research paper grouped participants by whether their karyotype was XX.", "extract": "XX", "category": "sex"},
+  {"prompt": "The textbook diagram illustrates the structure of an XX pair.", "extract": "XX", "category": "sex"},
+  {"prompt": "The fertility clinic's report listed the donor's karyotype as XX.", "extract": "XX", "category": "sex"},
+  {"prompt": "The forensic geneticist confirmed the sample's chromosomal makeup as XX.", "extract": "XX", "category": "sex"},
+  {"prompt": "The biology exam asked students to identify traits typical of an XX karyotype.", "extract": "XX", "category": "sex"},
+  {"prompt": "The veterinary genetics lab recorded the animal's karyotype as XX.", "extract": "XX", "category": "sex"},
+
+  {"prompt": "The surgical report noted the presence of testes during the procedure.", "extract": "testes", "category": "sex"},
+  {"prompt": "The ultrasound technician identified the presence of testes in the scan.", "extract": "testes", "category": "sex"},
+  {"prompt": "The anatomy lecture covered the development of testes during gestation.", "extract": "testes", "category": "sex"},
+  {"prompt": "The pathology report described the testes as structurally normal.", "extract": "testes", "category": "sex"},
+  {"prompt": "The veterinarian's exam confirmed the animal has undescended testes.", "extract": "testes", "category": "sex"},
+  {"prompt": "The endocrinologist explained how hormone production originates in the testes.", "extract": "testes", "category": "sex"},
+  {"prompt": "The textbook diagram labels the location of the testes.", "extract": "testes", "category": "sex"},
+  {"prompt": "The autopsy findings included a note on the condition of the testes.", "extract": "testes", "category": "sex"},
+  {"prompt": "The fertility specialist examined the testes as part of the evaluation.", "extract": "testes", "category": "sex"},
+  {"prompt": "The biology textbook explains how the testes produce sperm cells.", "extract": "testes", "category": "sex"},
+
+  {"prompt": "The surgical report noted the presence of ovaries during the procedure.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The ultrasound technician identified the presence of ovaries in the scan.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The anatomy lecture covered the development of ovaries during gestation.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The pathology report described the ovaries as structurally normal.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The veterinarian's exam confirmed the animal has healthy ovaries.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The endocrinologist explained how hormone production originates in the ovaries.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The textbook diagram labels the location of the ovaries.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The autopsy findings included a note on the condition of the ovaries.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The fertility specialist examined the ovaries as part of the evaluation.", "extract": "ovaries", "category": "sex"},
+  {"prompt": "The biology textbook explains how the ovaries release an egg each cycle.", "extract": "ovaries", "category": "sex"},
+
+  {"prompt": "During the interview, they explained what it means to them to be nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "At the support group, they shared their experience of coming to identify as nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "Their college application essay described the journey of realizing they are nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "The therapist's notes described how strongly they identify as nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "They wrote in their journal about finally feeling seen as nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "Introducing themself at the meeting, they shared their pronouns and said they are nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "Their social media bio describes them, plainly, as nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "Speaking at the pride event, they described the pride they feel in being nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "Their personal essay explored what it feels like to live authentically as nonbinary.", "extract": "nonbinary", "category": "gender"},
+  {"prompt": "The intake form's identity section noted that the client identifies as nonbinary.", "extract": "nonbinary", "category": "gender"},
+
+  {"prompt": "Coming out to her family, she explained that she is transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "At the support group, he spoke about what it means to him to be transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "In her memoir, she describes the moment she came to understand she is transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "The therapist's notes described how strongly he identifies as transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "She wrote in her journal about finally feeling seen as transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "During the interview, he described his identity simply: he is transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "Her social media bio describes her, plainly, as transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "Speaking at the pride event, he described the pride he feels in being transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "Her personal essay explored what it feels like to live authentically as transgender.", "extract": "transgender", "category": "gender"},
+  {"prompt": "The intake form's identity section noted that the client identifies as transgender.", "extract": "transgender", "category": "gender"},
+
+  {"prompt": "During the interview, they explained what it means to them to be genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "At the support group, they shared their experience of coming to identify as genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "Their college application essay described the journey of realizing they are genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "The therapist's notes described how strongly they identify as genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "They wrote in their journal about finally feeling seen as genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "Introducing themself at the meeting, they shared their pronouns and said they are genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "Their social media bio describes them, plainly, as genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "Speaking at the pride event, they described the pride they feel in being genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "Their personal essay explored what it feels like to live authentically as genderqueer.", "extract": "genderqueer", "category": "gender"},
+  {"prompt": "The intake form's identity section noted that the client identifies as genderqueer.", "extract": "genderqueer", "category": "gender"},
+
+  {"prompt": "Coming out to her family, she explained that she is cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "At the support group, he spoke about what it means to him to be cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "In her memoir, she describes the moment she came to understand she is cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "The therapist's notes described how strongly he identifies as cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "She wrote in her journal about reflecting on what it means to be cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "During the interview, he described his identity simply: he is cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "Her social media bio describes her, plainly, as cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "Speaking on the panel, he described what it means to him to be cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "Her personal essay explored what it feels like to reflect on being cisgender.", "extract": "cisgender", "category": "gender"},
+  {"prompt": "The intake form's identity section noted that the client identifies as cisgender.", "extract": "cisgender", "category": "gender"}
+]
